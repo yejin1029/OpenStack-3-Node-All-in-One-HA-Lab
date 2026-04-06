@@ -1,4 +1,4 @@
-# 📦 OpenStack 3-Node All-in-One HA Lab (Triple Controller)
+# 📦 OpenStack 3-Node All-in-One HA Lab
 
 ## 📌 Overview
 
@@ -12,7 +12,7 @@ Pacemaker/Corosync 기반 VIP, HAProxy 로드밸런싱, 그리고 RabbitMQ / Per
 
 ## 🏗 Architecture
 
-
+![Openstack_3node_Architecture](Openstack_3node_Architecture.png)
 
 **핵심 구조**
 - **Single Entry Point**
